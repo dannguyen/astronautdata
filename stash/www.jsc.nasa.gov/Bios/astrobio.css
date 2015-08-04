@@ -1,0 +1,121 @@
+BODY
+{
+    BACKGROUND-IMAGE: url('images/fcodtile.jpg');
+    BACKGROUND-COLOR: #EDEDE5; 
+    COLOR: navy;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A
+{
+    COLOR: red;
+    TEXT-DECORATION: none
+}
+
+A.fh:visited
+{
+    border:1px solid #EDEDE5; PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    BACKGROUND-IMAGE: url('http://www.jsc.nasa.gov/Bios/none');
+    MARGIN-LEFT: 0px;
+    COLOR: navy;
+    MARGIN-RIGHT: 0px;
+    BACKGROUND-REPEAT: repeat;
+    BACKGROUND-COLOR: transparent;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    COLOR: navy;
+    TEXT-DECORATION: underline
+}
+A.fh:hover
+{
+    BORDER-RIGHT: gold 1px solid;
+    PADDING-RIGHT: 0px;
+    BORDER-TOP: gold 1px solid;
+    PADDING-LEFT: 0px;
+    BACKGROUND: navy;
+    MARGIN-LEFT: 0px;
+    BORDER-LEFT: gold 1px solid;
+    COLOR: gold;
+    MARGIN-RIGHT: 0px;
+    BORDER-BOTTOM: gold 1px solid;
+    TEXT-DECORATION: none
+}
+A.fh:link
+{
+    border:1px solid #EDEDE5; PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    BACKGROUND-IMAGE: url('http://www.jsc.nasa.gov/Bios/none');
+    MARGIN-LEFT: 0px;
+    COLOR: navy;
+    MARGIN-RIGHT: 0px;
+    BACKGROUND-REPEAT: repeat;
+    BACKGROUND-COLOR: transparent;
+    TEXT-DECORATION: none
+}
+H4
+{
+    COLOR: navy;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H3
+{
+    COLOR: navy;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H5
+{
+    COLOR: navy;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H6
+{
+    COLOR: navy;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+PLAINTEXT
+{
+    COLOR: black;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H2
+{
+    COLOR: navy;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+HR
+{
+    COLOR: maroon;
+    HEIGHT: 1px
+}
+.hangingindent
+{
+    MARGIN-LEFT: 50px;
+    COLOR: navy;
+    TEXT-INDENT: -50px;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    TEXT-ALIGN: justify
+}
+A.fhx:visited
+{
+    border:1px solid snow; PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    BACKGROUND-IMAGE: url('http://www.jsc.nasa.gov/Bios/none');
+    MARGIN-LEFT: 0px;
+    COLOR: navy;
+    MARGIN-RIGHT: 0px;
+    BACKGROUND-REPEAT: repeat;
+    BACKGROUND-COLOR: transparent;
+    TEXT-DECORATION: none
+}
+P
+{
+    COLOR: navy;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TD
+{
+    COLOR: navy;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}

@@ -1,0 +1,16 @@
+# Hide specific bulk files
+stash/compiled/nation.csv
+stash/compiled/states.csv
+# Ignore cache
+/.sass-cache
+/.cache
+__pycache__/
+cache/
+# Ignore bundler config
+/.bundle
+# Ignore the build directory
+/build
+# Ignore .DS_store file
+.DS_Store
+# Ignore my stuff
+.s3_sync
