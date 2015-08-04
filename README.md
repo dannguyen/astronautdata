@@ -21,4 +21,11 @@ Inspired by this blog post: [Astronaut Abby: How to Become an Astronaut](http://
     curl -O http://www.nasa.gov/pdf/740566main_current.pdf
 
 
-(currently stored in [stash/740566main_current.pdf](740566main_current.pdf))
+(currently stored in [stash/740566main_current.pdf](stash/740566main_current.pdf))
+
+
+Convert it to text:
+
+    pdftotext -layout stash/740566main_current.pdf
+
+(currently stored in [stash/740566main_current.txt](stash/740566main_current.txt))
